@@ -29,7 +29,7 @@ Welcome to my E-Commerce Clone project! In just 3 months of learning HTML, CSS, 
 - CSS
 - JavaScript
 
-Future Plans
+## Future Plans
 
 As I continue my learning journey, I plan to create more projects and explore additional technologies. Some areas I'm considering include:
 
@@ -38,4 +38,4 @@ As I continue my learning journey, I plan to create more projects and explore ad
 - Node.js and MERN Stack: Considering the MERN (MongoDB, Express.js, React, Node.js) stack for building more robust and scalable web applications.
 
 -------CONNECT WITH ME--------
-link = https://linktr.ee/HTTPS_BHANU
+- link = https://linktr.ee/HTTPS_BHANU
