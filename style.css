@@ -1120,10 +1120,10 @@ h2{
     display: none;
     position: fixed;
     top: 0;
-    left: -100%; /* Initially off-screen to the left */
-    width: 80%; /* Adjust the width as needed */
+    left: -100%; 
+    width: 80%; 
     height: 100%;
-    background-color: #fff; /* Add your desired background color */
-    transition: left 0.3s; /* Use a transition for a slide effect */
-    z-index: 999; /* Ensure it's above other content */
+    background-color: #fff;
+    transition: left 0.3s; 
+    z-index: 999; 
   }
