@@ -1,7 +1,3 @@
-# E-Commerce-Store
-That's some impressive progress in just 3 months! Your dedication is clearly paying off. Now, let's make sure your Git repo reflects your hard work. Here's a simple template for your README file:
-
----
 
 # E-Commerce Clone Project
 
