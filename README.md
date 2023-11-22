@@ -18,12 +18,14 @@ Welcome to my E-Commerce Clone project! In just 3 months of learning HTML, CSS, 
 - **Dropdown Menu:** Incorporated a dropdown menu for efficient organization and access to different sections.
 
 - **Side Hover Bar:** Added a side hover bar to offer quick access to important functions without cluttering the main interface.
+- **Add TO Cart:** Whan You Add A product In a Cart It Will Add A Product In A Cart OR Shows Total Prize OF Total Cart Products
 
 ## Technologies Used
 
 - HTML
 - CSS
 - JavaScript
+- Local Storage
 
 ## Future Plans
 
