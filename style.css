@@ -502,8 +502,8 @@ h2{
 }
 #productboxmakeup{
     scale: 1;
-    width: 0vw;
-    text-align: center;
+    width: 40vw;
+    text-align:center;
     margin-top: 5px;
     border-top: darkgray 1px solid;
 }
